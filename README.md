@@ -46,5 +46,12 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+
+<img width="1593" height="628" alt="image" src="https://github.com/user-attachments/assets/070ba607-84b8-4b0d-a336-3ef01ee5fda3" />
+
 ## Output
+
+![EXP 6 WAVEFORM](https://github.com/user-attachments/assets/8add9e46-4957-4805-ab19-2ea0145ebfac)
+
 ## Result
+Thus the design and simulation of step up chopper is been sucessfully verified.
